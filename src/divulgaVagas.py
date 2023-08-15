@@ -91,6 +91,6 @@ class FindJobs:
 if __name__ == "__main__":
     # Remover o zoom da página quando o navegador iniciar!!!
     find_jobs = FindJobs()
-    print(find_jobs.search_for_jobs("https://www.divulgavagas.com.br", "Desenvolvedor"))
+    find_jobs.search_for_jobs("https://www.divulgavagas.com.br", "Desenvolvedor")
     find_jobs.send_resume(path_resume="caminho_do_curriculo")
     find_jobs.close()
