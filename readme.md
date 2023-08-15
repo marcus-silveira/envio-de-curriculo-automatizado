@@ -2,7 +2,7 @@ Claro! Abaixo está um exemplo de arquivo README.md que explica passo a passo co
 
 markdown
 Copy code
-# Automação de Envio de Currículos para Vagas de Emprego
+# Automação de Envio de Currículos
 
 Este projeto consiste em um script Python que utiliza a biblioteca Selenium para automatizar o processo de busca e envio de currículos para vagas de emprego em um site específico.
 
