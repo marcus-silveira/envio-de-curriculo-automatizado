@@ -45,8 +45,3 @@ python main.py
 ## Observações
 
 - Certifique-se de ter uma conexão de internet estável durante a execução do script.
-
-
-**Nota:** Este projeto é apenas para fins educacionais e de aprendizado. Respeite sempre os termos de uso dos sites e serviços online.
-
-
