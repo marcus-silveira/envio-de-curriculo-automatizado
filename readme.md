@@ -22,14 +22,6 @@ Instale as dependências usando o seguinte comando:
 ```sh
 pip install -r requirements.txt
 ```
-Uso
-Edite o script main.py para personalizar a pesquisa de vagas de emprego e o caminho do currículo.
-
-Execute o script main.py:
-
-```sh
-python main.py
-```
 
 ## Uso
 
